@@ -4,6 +4,7 @@
  * print_diagsums - Entry point
  * @a: input
  * @size: input
+ * if else statement
  * written by apete
  * Return: Always 0 (Success)
  */
